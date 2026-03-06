@@ -1,0 +1,9 @@
+Job,OwnHouse,CreditScore,LoanApproved
+Salaried,Yes,Good,Yes
+Salaried,No,Good,Yes
+SelfEmployed,Yes,Good,Yes
+SelfEmployed,No,Good,No
+Salaried,Yes,Bad,Yes
+Salaried,No,Bad,No
+SelfEmployed,Yes,Bad,Yes
+SelfEmployed,No,Bad,No
