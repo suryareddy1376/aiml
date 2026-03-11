@@ -1,0 +1,9 @@
+Age,Income,Buy_Laptop
+young,high,no
+young,high,no
+old,high,yes
+old,low,yes
+old,high,yes
+young,low,no
+young,low,yes
+old,low,yes
